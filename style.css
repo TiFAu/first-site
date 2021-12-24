@@ -178,7 +178,7 @@ a {
 }
 
 .hero-arrow:hover {
-  transform: scale(1.05);
+  transform: scale(1.01);
 }
 
 .work {
@@ -496,7 +496,7 @@ a {
 }
 
 .contact-form-subbmit:hover {
-  transform: scale(1.05);
+  transform: scale(1.01);
 }
 
 .contact-links {
