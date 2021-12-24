@@ -323,7 +323,7 @@ a {
 
 .profile-hero > div > img {
   width: 80%;
-  transform: scaleX(-1);
+  /* transform: scaleX(-1); */
   border-radius: 15%;
   filter: drop-shadow(-15px 15px 2px rgb(109, 175, 134));
   -webkit-filter: drop-shadow(-15px 15px 2px rgb(109, 175, 134));
