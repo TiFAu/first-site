@@ -137,8 +137,8 @@ a {
 }
 
 .hero-box-img {
-  width: 30rem;
-  height: 45rem;
+  width: 576px;
+  height: 1280px;
   border-top-left-radius: 50%;
   border-top-right-radius: 50%;
   overflow: hidden;
