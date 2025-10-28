@@ -137,11 +137,16 @@ a {
 }
 
 .hero-box-img {
-  width: 576px;
-  height: 1280px;
+  margin-top: 150px;
+  width: 450px;
+  height: 800px;
   border-top-left-radius: 50%;
   border-top-right-radius: 50%;
   overflow: hidden;
+}
+
+.name {
+  margin-top: 600px;
 }
 
 .hero-box > h1 {
